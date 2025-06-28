@@ -35,3 +35,9 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# Windows
+APPDATA/
+AppData/
+%APPDATA%/
+*.lnk
