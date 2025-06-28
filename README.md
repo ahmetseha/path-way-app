@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/00B4D8/FFFFFF?text=PathWay+Travel+App" alt="PathWay App Banner" width="800">
+  <img src="./assets/1.jpg" alt="PathWay App Banner" width="800">
 </div>
 
 ## 📱 Uygulama Hakkında
@@ -92,19 +92,19 @@ path-way-app/
     <tr>
       <td align="center">
         <strong>Ana Sayfa</strong><br>
-        <img src="https://via.placeholder.com/300x600/00B4D8/FFFFFF?text=Home+Screen" width="150">
+        <img src="./assets/2.jpg" width="150">
       </td>
       <td align="center">
         <strong>Gezi Oluşturma</strong><br>
-        <img src="https://via.placeholder.com/300x600/FFD700/000000?text=Create+Trip" width="150">
+        <img src="./assets/3.jpg" width="150">
       </td>
       <td align="center">
         <strong>Harita</strong><br>
-        <img src="https://via.placeholder.com/300x600/90E0EF/000000?text=Map+Screen" width="150">
+        <img src="./assets/4.jpg" width="150">
       </td>
       <td align="center">
         <strong>Ayarlar</strong><br>
-        <img src="https://via.placeholder.com/300x600/F8F9FA/000000?text=Settings" width="150">
+        <img src="./assets/5.jpg" width="150">
       </td>
     </tr>
   </table>
