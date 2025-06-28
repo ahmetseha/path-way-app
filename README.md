@@ -95,16 +95,16 @@ path-way-app/
          <img src="./assets/1.jpg" alt="PathWay App Banner" width="150">
       </td>
       <td align="center">
-        <strong>Gezi Oluşturma</strong><br>
-        <img src="./assets/3.jpg" width="150">
-      </td>
-      <td align="center">
-        <strong>Harita</strong><br>
+        <strong>Detay</strong><br>
         <img src="./assets/4.jpg" width="150">
       </td>
       <td align="center">
-        <strong>Ayarlar</strong><br>
+        <strong>Gezi Oluşturma</strong><br>
         <img src="./assets/5.jpg" width="150">
+      </td>
+      <td align="center">
+        <strong>Ayarlar</strong><br>
+        <img src="./assets/3.jpg" width="150">
       </td>
     </tr>
   </table>
