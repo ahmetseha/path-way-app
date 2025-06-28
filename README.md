@@ -177,32 +177,6 @@ CREATE TABLE locations (
 - Offline harita yönetimi
 - Uygulama bilgileri
 
-## 🚀 Geliştirme
-
-### Yeni Özellik Ekleme
-
-1. **Yeni ekran eklemek için:**
-```bash
-# src/screens/ klasörüne yeni dosya ekleyin
-# AppNavigator.tsx'e route ekleyin
-```
-
-2. **Yeni servis eklemek için:**
-```bash
-# src/services/ klasörüne yeni dosya ekleyin
-# İlgili ekranlarda import edin
-```
-
-### Kod Stili
-
-- **TypeScript** kullanın
-- **Functional Components** tercih edin
-- **Hooks** kullanın (useState, useEffect, useFocusEffect)
-- **Async/await** kullanın
-- **Error handling** ekleyin
-
-## 📦 Build ve Dağıtım
-
 ### Expo Build
 
 ```bash
@@ -223,35 +197,9 @@ eas submit --platform ios
 eas submit --platform android
 ```
 
-## 🤝 Katkıda Bulunma
-
-1. Fork yapın
-2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Add amazing feature'`)
-4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
-5. Pull Request oluşturun
-
 ## 📄 Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
-## 👥 Geliştirici
-
-**PathWay Team**
-
-- 📧 Email: contact@pathway-app.com
-- 🌐 Website: https://pathway-app.com
-- 📱 App Store: [PathWay](https://apps.apple.com/app/pathway)
-- 🎮 Google Play: [PathWay](https://play.google.com/store/apps/details?id=com.pathway.app)
-
-## 🙏 Teşekkürler
-
-- [Expo](https://expo.dev/) - Harika geliştirme platformu
-- [React Native](https://reactnative.dev/) - Cross-platform framework
-- [React Navigation](https://reactnavigation.org/) - Navigasyon çözümü
-- [React Native Maps](https://github.com/react-native-maps/react-native-maps) - Harita entegrasyonu
-
----
 
 <div align="center">
   <p>Made with ❤️ for travelers around the world</p>
