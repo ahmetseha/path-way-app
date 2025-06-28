@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <img src="./assets/1.jpg" alt="PathWay App Banner" width="800">
+  <img src="./assets/1.jpg" alt="PathWay App Banner" width="300" height="200">
 </div>
 
 ## 📱 Uygulama Hakkında
