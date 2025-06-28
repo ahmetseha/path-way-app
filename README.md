@@ -92,7 +92,7 @@ path-way-app/
     <tr>
       <td align="center">
         <strong>Ana Sayfa</strong><br>
-        <img src="./assets/2.jpg" width="150">
+         <img src="./assets/1.jpg" alt="PathWay App Banner" width="150">
       </td>
       <td align="center">
         <strong>Gezi Oluşturma</strong><br>
